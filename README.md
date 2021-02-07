@@ -1,13 +1,9 @@
-## Hvem er jeg?
+## Psykolog Jette Glædeshøj
 
-Jette Glædeshøj<br>
-Psykolog<br>
 Cand. Pæd. Psyk.
 
-![Dansk Psykolog forening](DP-LOGO.png)<br>
-Medlem af Dansk Psykologforening
-
- Hvad kan jeg?
+![Dansk Psykolog Forening](DP-LOGO.png)<br>
+Medlem af [Dansk Psykolog Forening](https://www.dp.dk/)
 
 ## Hvad kan jeg hjælpe med?
 
