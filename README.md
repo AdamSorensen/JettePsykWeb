@@ -29,7 +29,7 @@ Jeg tager afsæt i det hele menneske og de forskellige relationer det befinder s
 
 Henvist fra egen læge:
 
-Se ![Offentlige tilskudsordninger](https://psykologeridanmark.dk/psykologernes-arbejde/praktiserende-psykolog/offentlige-tilskudsordninger/)
+Se [Offentlige tilskudsordninger](https://psykologeridanmark.dk/psykologernes-arbejde/praktiserende-psykolog/offentlige-tilskudsordninger/)
 
 Uden henvisning:
 
