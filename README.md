@@ -1,10 +1,10 @@
 ## Hvem er jeg?
 
-Jette Glædeshøj
-Psykolog
+Jette Glædeshøj<br>
+Psykolog<br>
 Cand. Pæd. Psyk.
 
-LogoDPF
+![Dansk Psykolog forening](DP-LOGO.png)<br>
 Medlem af Dansk Psykologforening
 
  Hvad kan jeg?
@@ -33,7 +33,7 @@ Jeg tager afsæt i det hele menneske og de forskellige relationer det befinder s
 
 Henvist fra egen læge:
 
-- 1. konsultation kr. 383,-
+- Første konsultation kr. 383,-
 - Efterfølgende konsultationer kr. 319,-
 
 Uden henvisning:
