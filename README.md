@@ -2,7 +2,7 @@
 
 Cand. Pæd. Psyk.
 
-[![Dansk Psykolog Forening Logo](DP-LOGO.png "Dansk Psykolog Forening")](https://www.dp.dk/)<br>
+[![Dansk Psykolog Forening Logo](DP-LOGO.png "Dansk Psykolog Forening")](https://www.dp.dk/){:target="_blank"}<br>
 Medlem af Dansk Psykolog Forening
 
 ## Hvad kan jeg hjælpe med?
