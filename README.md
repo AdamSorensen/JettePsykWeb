@@ -1,9 +1,9 @@
-## Psykolog Jette Glædeshøj
+## Jette Glædeshøj
 
 Cand. Pæd. Psyk.
 
-![Dansk Psykolog Forening](DP-LOGO.png)<br>
-Medlem af [Dansk Psykolog Forening](https://www.dp.dk/)
+[![Dansk Psykolog Forening Logo](DP-LOGO.png "Dansk Psykolog Forening")](https://www.dp.dk/)<br>
+Medlem af Dansk Psykolog Forening
 
 ## Hvad kan jeg hjælpe med?
 
@@ -29,8 +29,7 @@ Jeg tager afsæt i det hele menneske og de forskellige relationer det befinder s
 
 Henvist fra egen læge:
 
-- Første konsultation kr. 383,-
-- Efterfølgende konsultationer kr. 319,-
+Se ![Offentlige tilskudsordninger](https://psykologeridanmark.dk/psykologernes-arbejde/praktiserende-psykolog/offentlige-tilskudsordninger/)
 
 Uden henvisning:
 
