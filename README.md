@@ -43,11 +43,11 @@ Hvis jeg ikke tager min telefon så læg en besked og et telefonnummer og jeg ri
 
 ## Kontakt
 
-Tlf: 29 65 06 77
-E-mail: jette_psyk@hotmail.com
-Hjemmeside: www.jette-psyk.dk
+Tlf: 29 65 06 77<br>
+E-mail: [jette_psyk@hotmail.com](mailto:jette_psyk@hotmail.com)<br>
+Hjemmeside: [jette-psyk.dk](http://jette-psyk.dk){:target="_blank"}
 
-Jeg har praksis i Gilleleje og Skibby:
+Jeg har praksis i Gilleleje:
 
 Vandværksvej 20
 3250 Gilleleje
