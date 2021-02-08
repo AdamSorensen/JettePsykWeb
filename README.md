@@ -49,6 +49,5 @@ Hjemmeside: [jette-psyk.dk](http://jette-psyk.dk){:target="_blank"}
 
 Jeg har praksis i Gilleleje:
 
-Vandværksvej 20
+Hulsøvej 8
 3250 Gilleleje
-(Handicapvenlig adgang)
